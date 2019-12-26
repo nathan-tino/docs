@@ -34,7 +34,7 @@ We recommend you to use the following process when porting your project to .NET 
 
 5. Create new projects for .NET Core and copy over source files, or attempt to convert your existing project file with a tool.
 
-   .NET Core uses a simplified (and different) [project file format](../tools/csproj.md) than .NET Framework. You'll need to convert your project files into this format to continue.
+   .NET Core uses a different, more simple [project file format](../tools/csproj.md) than .NET Framework. You'll need to convert your project files into this format to continue.
 
 6. Port your test code.
 
